@@ -1,6 +1,6 @@
-# xylophone
+## xylophone
 
-A new Flutter application.
+Welcome to Xylophone app. This app is made using TextButtons with different colors, but for the sound 'audioplayers' package is used.
 
 ## Getting Started
 
