@@ -2,6 +2,11 @@
 
 Welcome to Xylophone app. This app is made using TextButtons with different colors, but for the sound 'audioplayers' package is used.
 
+
+## Screenshot
+<img src = "https://user-images.githubusercontent.com/42904172/119138625-b4a05d00-ba5f-11eb-8034-231e19e38bb0.png" width = "400" height= "790">
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
